@@ -1,0 +1,6 @@
+npx create-react-app dojo-blog
+npm run start ---- start the project in local environment
+npm install ---- Install all needed dependencies
+sfc - create boilerprint component(javascript function)
+
+jsx --- look like html but inside of react component
