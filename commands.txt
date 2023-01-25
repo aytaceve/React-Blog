@@ -4,3 +4,5 @@ npm install ---- Install all needed dependencies
 sfc - create boilerprint component(javascript function)
 
 jsx --- look like html but inside of react component
+
+npx json-server --watch data/db.json --port 8000
